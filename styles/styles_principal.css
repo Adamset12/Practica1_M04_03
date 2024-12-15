@@ -1,0 +1,139 @@
+body {
+    font-family: "Arial", sans-serif;
+    padding-top: 120px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+.title img{
+    width: 300px;
+    height: auto;
+}
+
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #000;
+    width: 100%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    border: none;
+    background-color: transparent;
+    color: #000;
+}
+
+.buttons button:hover {
+    color: green;
+}
+
+.main-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; /* Espacio entre el "Sobre mí" y las recetas */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 50px
+}
+
+.aboutme {
+    flex: 1; /* Ocupa espacio suficiente a la izquierda */
+    max-width: 300px; /* Puedes ajustar el ancho según tus necesidades */
+    text-align: center;
+}
+
+.aboutme .sobremi{
+    width: auto;
+    height: 150px;
+}
+
+.aboutme p{
+    text-align: justify;
+}
+
+.aboutme .ebook{
+    width: auto;
+    height: 300px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    flex: 3;
+}
+
+.receipt {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.receipt h1 {
+    font-size: medium;
+}
+
+.receipt a:hover {
+    color: #7aba96;
+}
+
+.receipt p {
+    font-size: small;
+}
+
+.receipt hr {
+    margin: 1px 0;
+    border: none;
+    border-top: 1px solid #7aba96;
+    width: 100%;
+}
+
+
+.receipt img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.links {
+    text-align: center;
+    padding: 20px;
+    background-color: #000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}
+
+.links button {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.links button:hover {
+    color: #7aba96;
+}

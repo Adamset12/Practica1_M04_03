@@ -1,0 +1,125 @@
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+.title img{
+    width: 300px;
+    height: auto;
+}
+
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #000;
+    width: 100%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    border: none;
+    background-color: transparent;
+    color: #000;
+}
+
+.buttons button:hover {
+    color: green;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+    padding-top: 100px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    padding-bottom: 100px;
+}
+
+.main-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 750px;
+    margin: 200px auto;
+    padding: 20px;
+    margin-top: 170px;
+    margin-bottom: 20px;
+
+}
+
+.main-container h1 {
+    color: #2a6e2b;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.main-container h2 {
+    color: #2a6e2b;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.main-container p {
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.receta-contenido {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px; /* Espacio entre texto e imagen */
+}
+
+.receta-texto {
+    flex: 1;
+}
+
+.receta-imagen img {
+    max-width: 300px; /* Ajusta el tamaño de la imagen */
+    height: auto; /* Mantiene proporciones */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para destacar */
+    align-items: center;
+}
+
+.receta-detalles {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+.receta-detalles strong {
+    color: #2a6e2b;
+}
+
+.links {
+    text-align: center;
+    padding: 20px;
+    background-color: #000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}
+
+.links button {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.links button:hover {
+    color: #7aba96;
+}

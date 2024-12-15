@@ -1,0 +1,89 @@
+body {
+    font-family: "Arial", sans-serif;
+    padding-top: 150px;
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+.title img {
+    width: 300px;
+    height: auto;
+}
+
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #000;
+    width: 100%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    border: none;
+    background-color: transparent;
+    color: #000;
+}
+
+.buttons button:hover {
+    color: green;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center; /* Centra el texto dentro de los párrafos */
+    margin: 0 auto;
+    max-width: 800px; /* Limita el ancho máximo */
+    padding: 20px;
+}
+
+.profile-picture {
+    border-radius: 50%; /* Imagen circular */
+    width: 150px; /* Ajusta el tamaño de la imagen */
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px; /* Espacio debajo de la imagen */
+}
+
+p {
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+.links {
+    text-align: center;
+    padding: 20px;
+    background-color: #000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}
+
+.links button {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.links button:hover {
+    color: #7aba96;
+}

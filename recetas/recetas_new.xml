@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recetas.xslt"?>
+<recetas>
+    <receta>
+        <titulo>Pasta con salsa de coliflor y pimienta de Jamaica</titulo>
+        <ingredientes>
+            <ingrediente>250 g de pasta integral</ingrediente>
+            <ingrediente>1 coliflor mediana</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>400 ml de leche vegetal</ingrediente>
+            <ingrediente>1 cucharada de pimienta de Jamaica</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal al gusto</ingrediente>
+            <ingrediente>Pimienta negra al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cocina la pasta integral según las instrucciones del paquete. Reserva un poco del agua de cocción.</paso>
+            <paso>Mientras tanto, corta la coliflor en floretes y cocínala al vapor hasta que esté tierna.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y sofríe el ajo picado hasta que esté dorado.</paso>
+            <paso>En una licuadora, mezcla la coliflor, el ajo, la leche vegetal, la pimienta de Jamaica, la sal y la pimienta. Licúa hasta obtener una salsa cremosa. Añade un poco del agua de cocción de la pasta si queda muy espesa.</paso>
+            <paso>Mezcla la salsa con la pasta y sirve caliente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato1.png</imagen>
+    </receta>
+</recetas>

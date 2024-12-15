@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recetas.xslt"?>
+<recetas>
+    <receta>
+        <titulo>Pasta con salsa de coliflor y pimienta de Jamaica</titulo>
+        <ingredientes>
+            <ingrediente>250 g de pasta integral</ingrediente>
+            <ingrediente>1 coliflor mediana</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>400 ml de leche vegetal</ingrediente>
+            <ingrediente>1 cucharada de pimienta de Jamaica</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal al gusto</ingrediente>
+            <ingrediente>Pimienta negra al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cocina la pasta integral según las instrucciones del paquete. Reserva un poco del agua de cocción.</paso>
+            <paso>Mientras tanto, corta la coliflor en floretes y cocínala al vapor hasta que esté tierna.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y sofríe el ajo picado hasta que esté dorado.</paso>
+            <paso>En una licuadora, mezcla la coliflor, el ajo, la leche vegetal, la pimienta de Jamaica, la sal y la pimienta. Licúa hasta obtener una salsa cremosa. Añade un poco del agua de cocción de la pasta si queda muy espesa.</paso>
+            <paso>Mezcla la salsa con la pasta y sirve caliente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato1.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Mijo cremoso con lentejas, hortalizas y shiitake</titulo>
+        <ingredientes>
+            <ingrediente>200 g de mijo</ingrediente>
+            <ingrediente>150 g de lentejas cocidas</ingrediente>
+            <ingrediente>100 g de setas shiitake</ingrediente>
+            <ingrediente>1 zanahoria</ingrediente>
+            <ingrediente>1 calabacín</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>500 ml de caldo de verduras</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lava el mijo bajo agua corriente y escúrrelo bien.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y sofríe el ajo picado.</paso>
+            <paso>Añade las setas, la zanahoria y el calabacín en cubos. Cocina hasta que estén tiernos.</paso>
+            <paso>Agrega el mijo y mezcla 2 minutos para tostarlo ligeramente.</paso>
+            <paso>Incorpora el caldo de verduras caliente y cocina a fuego lento 15-20 min.</paso>
+            <paso>Añade las lentejas, sazona al gusto y sirve caliente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>media</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato2.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Galletas de avena, rosa y lima</titulo>
+        <ingredientes>
+            <ingrediente>200 g de avena</ingrediente>
+            <ingrediente>100 g de harina integral</ingrediente>
+            <ingrediente>100 g de azúcar de coco</ingrediente>
+            <ingrediente>1 huevo</ingrediente>
+            <ingrediente>80 ml de aceite de coco derretido</ingrediente>
+            <ingrediente>Ralladura de 1 lima</ingrediente>
+            <ingrediente>2 cucharadas de agua de rosas</ingrediente>
+            <ingrediente>1 cucharadita de levadura en polvo</ingrediente>
+            <ingrediente>Una pizca de sal</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Precalienta el horno a 180 °C y forra una bandeja con papel de horno.</paso>
+            <paso>Mezcla avena, harina, azúcar, ralladura de lima, levadura y sal.</paso>
+            <paso>Bate el huevo con el aceite de coco y el agua de rosas.</paso>
+            <paso>Combina ingredientes líquidos con secos hasta formar masa.</paso>
+            <paso>Haz bolitas, aplánalas y hornéalas 12-15 min.</paso>
+            <paso>Deja enfriar antes de servir.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>no</celiacos>
+        </detalles>
+        <imagen>../images/plato3.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Calabacines rellenos de arroz negro y calabaza</titulo>
+        <ingredientes>
+            <ingrediente>4 calabacines medianos</ingrediente>
+            <ingrediente>200 g de arroz negro</ingrediente>
+            <ingrediente>150 g de calabaza</ingrediente>
+            <ingrediente>1 cebolla pequeña</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>500 ml de caldo de verduras</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+            <ingrediente>Perejil fresco</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Corta los calabacines por la mitad y retira la pulpa, deja un borde.</paso>
+            <paso>Cocina los calabacines al vapor 5 min y reserva.</paso>
+            <paso>Sofríe cebolla y ajo en aceite hasta dorar.</paso>
+            <paso>Añade calabaza en cubos y cocina 5 min.</paso>
+            <paso>Incorpora el arroz negro y el caldo, cocina 30-35 min.</paso>
+            <paso>Rellena los calabacines con el arroz y hornea 10 min a 180 °C.</paso>
+            <paso>Decora con perejil fresco y sirve.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>media</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato4.png</imagen>
+    </receta>
+    <receta>
+        <titulo>Ensalada de quinoa y remolacha</titulo>
+        <ingredientes>
+            <ingrediente>200 g de quinoa</ingrediente>
+            <ingrediente>1 remolacha grande cocida</ingrediente>
+            <ingrediente>1 aguacate</ingrediente>
+            <ingrediente>50 g de nueces</ingrediente>
+            <ingrediente>Zumo de 1 limón</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cocina la quinoa según las instrucciones del paquete y deja enfriar.</paso>
+            <paso>Corta la remolacha y el aguacate en cubos.</paso>
+            <paso>En un bol, mezcla la quinoa, la remolacha, el aguacate y las nueces.</paso>
+            <paso>Aliña con zumo de limón, aceite de oliva, sal y pimienta.</paso>
+            <paso>Mezcla bien y sirve frío.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato_vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Crema de zanahoria y jengibre</titulo>
+        <ingredientes>
+            <ingrediente>500 g de zanahorias</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>1 trozo de jengibre fresco (3 cm)</ingrediente>
+            <ingrediente>500 ml de caldo de verduras</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Pela y corta las zanahorias en rodajas finas.</paso>
+            <paso>Pica la cebolla y el ajo. Ralla el jengibre.</paso>
+            <paso>En una olla, calienta el aceite de oliva y sofríe la cebolla y el ajo hasta que estén dorados.</paso>
+            <paso>Añade las zanahorias y el jengibre, y cocina por 5 minutos.</paso>
+            <paso>Incorpora el caldo de verduras y cocina a fuego medio durante 20 minutos o hasta que las zanahorias estén tiernas.</paso>
+            <paso>Tritura con una batidora hasta obtener una crema homogénea.</paso>
+            <paso>Sazona con sal y pimienta al gusto. Sirve caliente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Hamburguesas de lentejas y zanahoria</titulo>
+        <ingredientes>
+            <ingrediente>200 g de lentejas cocidas</ingrediente>
+            <ingrediente>2 zanahorias medianas</ingrediente>
+            <ingrediente>50 g de pan rallado sin gluten</ingrediente>
+            <ingrediente>1 cucharadita de comino en polvo</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Tritura las lentejas con un tenedor o procesador de alimentos.</paso>
+            <paso>Ralla las zanahorias y mezcla con las lentejas trituradas.</paso>
+            <paso>Añade el pan rallado, el comino, el ajo picado, la sal y la pimienta. Mezcla bien.</paso>
+            <paso>Forma hamburguesas con la mezcla.</paso>
+            <paso>Calienta el aceite en una sartén y cocina las hamburguesas 3-4 minutos por cada lado hasta que estén doradas.</paso>
+            <paso>Sirve caliente con ensalada o pan de hamburguesa.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>media</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Tarta de chocolate vegana</titulo>
+        <ingredientes>
+            <ingrediente>200 g de harina integral</ingrediente>
+            <ingrediente>100 g de cacao en polvo</ingrediente>
+            <ingrediente>150 g de azúcar de coco</ingrediente>
+            <ingrediente>1 cucharadita de bicarbonato de sodio</ingrediente>
+            <ingrediente>1 cucharadita de vinagre de manzana</ingrediente>
+            <ingrediente>250 ml de leche vegetal</ingrediente>
+            <ingrediente>80 ml de aceite de coco derretido</ingrediente>
+            <ingrediente>1 cucharadita de extracto de vainilla</ingrediente>
+            <ingrediente>Una pizca de sal</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Precalienta el horno a 180 °C y engrasa un molde redondo.</paso>
+            <paso>Mezcla la harina, el cacao, el azúcar, el bicarbonato y la sal en un bol grande.</paso>
+            <paso>En otro recipiente, combina la leche vegetal, el aceite de coco, el vinagre y la vainilla.</paso>
+            <paso>Vierte los ingredientes líquidos sobre los secos y mezcla hasta obtener una masa homogénea.</paso>
+            <paso>Vierte la mezcla en el molde y hornea durante 30-35 minutos o hasta que un palillo salga limpio.</paso>
+            <paso>Deja enfriar antes de desmoldar y servir.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>postre</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>no</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Batido verde energético</titulo>
+        <ingredientes>
+            <ingrediente>1 manojo de espinacas frescas</ingrediente>
+            <ingrediente>1 plátano maduro</ingrediente>
+            <ingrediente>200 ml de leche de almendras</ingrediente>
+            <ingrediente>1 cucharada de semillas de chía</ingrediente>
+            <ingrediente>Zumo de ½ limón</ingrediente>
+            <ingrediente>1 cucharadita de miel o sirope de agave (opcional)</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lava bien las espinacas.</paso>
+            <paso>Pela el plátano y córtalo en trozos.</paso>
+            <paso>En una licuadora, coloca las espinacas, el plátano, la leche de almendras, las semillas de chía y el zumo de limón.</paso>
+            <paso>Licúa hasta obtener una textura suave.</paso>
+            <paso>Añade miel o sirope de agave si deseas un toque más dulce.</paso>
+            <paso>Sirve inmediatamente y disfruta.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Ensalada de quinoa y granada</titulo>
+        <ingredientes>
+            <ingrediente>200 g de quinoa</ingrediente>
+            <ingrediente>1 granada</ingrediente>
+            <ingrediente>50 g de espinacas frescas</ingrediente>
+            <ingrediente>1 aguacate</ingrediente>
+            <ingrediente>Zumo de 1 limón</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lava la quinoa y cuécela en agua con sal según las instrucciones del paquete. Deja enfriar.</paso>
+            <paso>Desgrana la granada y corta el aguacate en cubos.</paso>
+            <paso>En un bol grande, mezcla la quinoa con las espinacas, la granada y el aguacate.</paso>
+            <paso>Aliña con el zumo de limón, el aceite de oliva, la sal y la pimienta. Mezcla bien.</paso>
+            <paso>Sirve fría o a temperatura ambiente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Falafel al horno</titulo>
+        <ingredientes>
+            <ingrediente>200 g de garbanzos secos</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>1 manojo de perejil fresco</ingrediente>
+            <ingrediente>1 cucharadita de comino en polvo</ingrediente>
+            <ingrediente>1 cucharadita de cilantro en polvo</ingrediente>
+            <ingrediente>2 cucharadas de harina de garbanzo</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Remoja los garbanzos en agua durante al menos 12 horas. Escurre bien.</paso>
+            <paso>En un procesador de alimentos, tritura los garbanzos con la cebolla, el ajo y el perejil hasta obtener una pasta grumosa.</paso>
+            <paso>Añade las especias, la harina, la sal y la pimienta. Mezcla bien.</paso>
+            <paso>Forma bolitas o discos con la mezcla y colócalos en una bandeja de horno engrasada.</paso>
+            <paso>Hornea a 200 °C durante 20-25 minutos, volteando a la mitad del tiempo.</paso>
+            <paso>Sirve con salsa tahini o ensalada.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>media</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Sopa de calabaza y coco</titulo>
+        <ingredientes>
+            <ingrediente>500 g de calabaza</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>400 ml de leche de coco</ingrediente>
+            <ingrediente>500 ml de caldo de verduras</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Pela y corta la calabaza en trozos pequeños.</paso>
+            <paso>Pica la cebolla y el ajo.</paso>
+            <paso>En una olla, calienta el aceite y sofríe la cebolla y el ajo hasta que estén transparentes.</paso>
+            <paso>Añade la calabaza y cocina por 5 minutos.</paso>
+            <paso>Incorpora la leche de coco y el caldo. Cocina a fuego medio durante 20 minutos.</paso>
+            <paso>Tritura con una batidora hasta obtener una crema suave.</paso>
+            <paso>Ajusta de sal y pimienta antes de servir.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>sí</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Lasagna de berenjena y calabacín</titulo>
+        <ingredientes>
+            <ingrediente>2 berenjenas medianas</ingrediente>
+            <ingrediente>2 calabacines medianos</ingrediente>
+            <ingrediente>500 g de salsa de tomate</ingrediente>
+            <ingrediente>200 g de queso vegano rallado</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Corta las berenjenas y los calabacines en láminas finas y ásalas ligeramente.</paso>
+            <paso>Sofríe el ajo picado en aceite de oliva y mezcla con la salsa de tomate.</paso>
+            <paso>En una fuente, alterna capas de berenjena, calabacín, salsa y queso.</paso>
+            <paso>Hornea a 180 °C durante 25 minutos y sirve caliente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>italiana</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Burrito de arroz integral, frijoles y guacamole</titulo>
+        <ingredientes>
+            <ingrediente>4 tortillas integrales</ingrediente>
+            <ingrediente>200 g de arroz integral cocido</ingrediente>
+            <ingrediente>150 g de frijoles negros cocidos</ingrediente>
+            <ingrediente>1 aguacate</ingrediente>
+            <ingrediente>1 tomate</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>Zumo de 1 lima</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Prepara el guacamole machacando el aguacate con el zumo de lima, ajo picado y sal.</paso>
+            <paso>Calienta ligeramente las tortillas en una sartén.</paso>
+            <paso>Rellena cada tortilla con arroz, frijoles, guacamole y tomate picado.</paso>
+            <paso>Enrolla y sirve.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>mexicana</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>no</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Bowl de poke vegano con mango y tofu marinado</titulo>
+        <ingredientes>
+            <ingrediente>200 g de tofu firme</ingrediente>
+            <ingrediente>1 mango</ingrediente>
+            <ingrediente>100 g de arroz de sushi</ingrediente>
+            <ingrediente>50 ml de salsa de soja</ingrediente>
+            <ingrediente>1 cucharada de aceite de sésamo</ingrediente>
+            <ingrediente>1 zanahoria</ingrediente>
+            <ingrediente>1 pepino</ingrediente>
+            <ingrediente>Semillas de sésamo para decorar</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Corta el tofu en cubos y marínalo con salsa de soja y aceite de sésamo.</paso>
+            <paso>Cocina el arroz según las instrucciones del paquete.</paso>
+            <paso>Corta el mango, la zanahoria y el pepino en tiras.</paso>
+            <paso>En un bowl, combina arroz, tofu, mango, zanahoria y pepino. Decora con semillas de sésamo.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>asiática</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Espaguetis de calabacín con salsa marinara</titulo>
+        <ingredientes>
+            <ingrediente>2 calabacines grandes</ingrediente>
+            <ingrediente>500 g de salsa marinara</ingrediente>
+            <ingrediente>1 cucharada de aceite de oliva</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>Hojas de albahaca fresca</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Con un espiralizador, convierte los calabacines en espaguetis.</paso>
+            <paso>Calienta el aceite en una sartén y sofríe el ajo picado.</paso>
+            <paso>Añade la salsa marinara y caliéntala a fuego bajo.</paso>
+            <paso>Incorpora los espaguetis de calabacín, mezcla y cocina 2-3 minutos.</paso>
+            <paso>Sirve con albahaca fresca.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>italiana</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Albóndigas de quinoa en salsa de tomate</titulo>
+        <ingredientes>
+            <ingrediente>200 g de quinoa cocida</ingrediente>
+            <ingrediente>100 g de pan rallado sin gluten</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>1 cucharada de perejil picado</ingrediente>
+            <ingrediente>500 g de salsa de tomate</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Mezcla la quinoa con pan rallado, ajo picado, perejil, sal y pimienta.</paso>
+            <paso>Forma albóndigas pequeñas con la mezcla.</paso>
+            <paso>Fríelas en aceite hasta que estén doradas.</paso>
+            <paso>Calienta la salsa de tomate y añade las albóndigas antes de servir.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>media</dificultad>
+            <cocina>mediterránea</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Wok de verduras con salsa de soja y jengibre</titulo>
+        <ingredientes>
+            <ingrediente>200 g de brócoli</ingrediente>
+            <ingrediente>1 pimiento rojo</ingrediente>
+            <ingrediente>1 zanahoria</ingrediente>
+            <ingrediente>100 g de champiñones</ingrediente>
+            <ingrediente>50 ml de salsa de soja</ingrediente>
+            <ingrediente>1 cucharada de jengibre fresco rallado</ingrediente>
+            <ingrediente>1 cucharada de aceite de sésamo</ingrediente>
+            <ingrediente>Semillas de sésamo para decorar</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Corta las verduras en trozos pequeños y prepara el jengibre rallado.</paso>
+            <paso>Calienta el aceite en un wok y saltea las verduras a fuego alto.</paso>
+            <paso>Añade la salsa de soja y el jengibre. Cocina por 5 minutos.</paso>
+            <paso>Sirve caliente decorado con semillas de sésamo.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>asiática</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Pastel de lentejas con puré de patatas</titulo>
+        <ingredientes>
+            <ingrediente>200 g de lentejas cocidas</ingrediente>
+            <ingrediente>500 g de patatas</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>1 zanahoria</ingrediente>
+            <ingrediente>50 ml de leche vegetal</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Hierve las patatas, pélalas y haz un puré con la leche y el aceite.</paso>
+            <paso>Sofríe la cebolla y la zanahoria picadas hasta que estén tiernas.</paso>
+            <paso>Mezcla las lentejas con las verduras y sazona.</paso>
+            <paso>Coloca la mezcla en una fuente, cubre con el puré y hornea a 180 °C por 20 minutos.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>media</dificultad>
+            <cocina>internacional</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Panqueques veganos de avena y plátano</titulo>
+        <ingredientes>
+            <ingrediente>1 plátano maduro</ingrediente>
+            <ingrediente>100 g de harina de avena</ingrediente>
+            <ingrediente>200 ml de leche vegetal</ingrediente>
+            <ingrediente>1 cucharadita de polvo de hornear</ingrediente>
+            <ingrediente>1 cucharada de aceite de coco</ingrediente>
+            <ingrediente>Una pizca de sal</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Tritura el plátano hasta hacerlo puré.</paso>
+            <paso>Mezcla el puré de plátano con la leche, la harina, el polvo de hornear y la sal.</paso>
+            <paso>Calienta el aceite en una sartén y cocina los panqueques por ambos lados hasta que estén dorados.</paso>
+            <paso>Sirve con frutas frescas o sirope al gusto.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>desayuno</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+
+    <receta>
+        <titulo>Tortilla de garbanzos con espinacas</titulo>
+        <ingredientes>
+            <ingrediente>150 g de harina de garbanzo</ingrediente>
+            <ingrediente>200 ml de agua</ingrediente>
+            <ingrediente>100 g de espinacas frescas</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>1 cucharadita de cúrcuma</ingrediente>
+            <ingrediente>1 cucharada de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Mezcla la harina de garbanzo con agua, cúrcuma, sal y pimienta hasta formar una masa homogénea.</paso>
+            <paso>Sofríe la cebolla y las espinacas en aceite hasta que estén tiernas.</paso>
+            <paso>Añade la mezcla de harina a las verduras y cocina como una tortilla convencional.</paso>
+            <paso>Dora por ambos lados y sirve.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>española</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Galletas de almendra y chocolate</titulo>
+        <ingredientes>
+            <ingrediente>200 g de harina de almendra</ingrediente>
+            <ingrediente>100 g de chocolate negro picado</ingrediente>
+            <ingrediente>50 g de azúcar de coco</ingrediente>
+            <ingrediente>1 cucharadita de polvo de hornear</ingrediente>
+            <ingrediente>50 ml de aceite de coco derretido</ingrediente>
+            <ingrediente>1 cucharadita de extracto de vainilla</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Precalienta el horno a 180 °C y prepara una bandeja con papel de hornear.</paso>
+            <paso>Mezcla todos los ingredientes en un bol hasta formar una masa homogénea.</paso>
+            <paso>Forma pequeñas bolas con la masa y colócalas en la bandeja, aplastándolas ligeramente.</paso>
+            <paso>Hornea durante 12-15 minutos o hasta que estén doradas.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>repostería</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Sopa crema de calabaza y jengibre</titulo>
+        <ingredientes>
+            <ingrediente>500 g de calabaza pelada y troceada</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>500 ml de caldo de verduras</ingrediente>
+            <ingrediente>1 cucharada de jengibre rallado</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Sofríe la cebolla y el ajo picados en aceite de oliva hasta que estén dorados.</paso>
+            <paso>Añade la calabaza, el jengibre y el caldo. Cocina a fuego medio durante 20 minutos.</paso>
+            <paso>Tritura la mezcla con una batidora hasta obtener una crema suave.</paso>
+            <paso>Sirve caliente con un chorrito de aceite de oliva.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>internacional</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>alto</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Hamburguesa de lentejas y remolacha</titulo>
+        <ingredientes>
+            <ingrediente>200 g de lentejas cocidas</ingrediente>
+            <ingrediente>1 remolacha cocida</ingrediente>
+            <ingrediente>50 g de avena en hojuelas</ingrediente>
+            <ingrediente>1 cucharadita de comino en polvo</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Tritura las lentejas y la remolacha en un procesador de alimentos.</paso>
+            <paso>Mezcla con avena, comino, ajo picado, sal y pimienta.</paso>
+            <paso>Forma hamburguesas con la mezcla y cocínalas en una sartén con aceite hasta que estén doradas.</paso>
+            <paso>Sirve con pan integral, vegetales y salsas al gusto.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>media</dificultad>
+            <cocina>internacional</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>no</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Ensalada de quinoa, kale y granada</titulo>
+        <ingredientes>
+            <ingrediente>150 g de quinoa cocida</ingrediente>
+            <ingrediente>100 g de hojas de kale</ingrediente>
+            <ingrediente>50 g de granos de granada</ingrediente>
+            <ingrediente>50 g de nueces</ingrediente>
+            <ingrediente>Zumo de 1 limón</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lava y masajea las hojas de kale con un poco de zumo de limón y sal.</paso>
+            <paso>Mezcla la quinoa con kale, granada y nueces.</paso>
+            <paso>Aliña con el resto del zumo de limón, aceite de oliva, sal y pimienta.</paso>
+            <paso>Sirve fresca como acompañamiento o plato principal.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>alto</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Crema de zanahoria y coco</titulo>
+        <ingredientes>
+            <ingrediente>500 g de zanahorias</ingrediente>
+            <ingrediente>200 ml de leche de coco</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>500 ml de caldo de verduras</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Sofríe la cebolla picada en aceite de oliva hasta que esté dorada.</paso>
+            <paso>Añade las zanahorias troceadas y el caldo de verduras. Cocina durante 20 minutos.</paso>
+            <paso>Agrega la leche de coco y tritura hasta obtener una textura cremosa.</paso>
+            <paso>Corrige de sal y pimienta y sirve caliente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>internacional</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>moderado</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Barritas energéticas caseras</titulo>
+        <ingredientes>
+            <ingrediente>200 g de dátiles</ingrediente>
+            <ingrediente>100 g de almendras</ingrediente>
+            <ingrediente>50 g de copos de avena</ingrediente>
+            <ingrediente>2 cucharadas de cacao en polvo</ingrediente>
+            <ingrediente>1 cucharada de aceite de coco</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Tritura los dátiles con las almendras y el aceite de coco en un procesador de alimentos.</paso>
+            <paso>Añade los copos de avena y el cacao y mezcla bien.</paso>
+            <paso>Extiende la mezcla en un molde y presiona para compactar.</paso>
+            <paso>Refrigera durante al menos 2 horas antes de cortar en barritas.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>bajo</anticancer>
+            <celiacos>no</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Pasta integral con pesto de espinacas</titulo>
+        <ingredientes>
+            <ingrediente>200 g de pasta integral</ingrediente>
+            <ingrediente>100 g de espinacas frescas</ingrediente>
+            <ingrediente>50 g de nueces</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>50 ml de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cocina la pasta siguiendo las instrucciones del paquete.</paso>
+            <paso>Tritura las espinacas, las nueces, el ajo y el aceite hasta obtener un pesto homogéneo.</paso>
+            <paso>Mezcla la pasta cocida con el pesto y ajusta de sal y pimienta.</paso>
+            <paso>Sirve con nueces picadas por encima.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>italiana</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>alto</anticancer>
+            <celiacos>no</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Batido verde detox</titulo>
+        <ingredientes>
+            <ingrediente>1 manzana verde</ingrediente>
+            <ingrediente>1 puñado de espinacas</ingrediente>
+            <ingrediente>1 tallo de apio</ingrediente>
+            <ingrediente>Zumo de 1 limón</ingrediente>
+            <ingrediente>200 ml de agua fría</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lava todos los ingredientes y córtalos en trozos pequeños.</paso>
+            <paso>Pon todos los ingredientes en la licuadora y mezcla hasta obtener un batido suave.</paso>
+            <paso>Sirve inmediatamente para aprovechar todos los nutrientes.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>alto</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+    <receta>
+        <titulo>Salteado de Heura con verduras</titulo>
+        <ingredientes>
+            <ingrediente>200 g de Heura bocados mediterráneos</ingrediente>
+            <ingrediente>1 pimiento rojo</ingrediente>
+            <ingrediente>1 pimiento verde</ingrediente>
+            <ingrediente>1 cebolla morada</ingrediente>
+            <ingrediente>1 calabacín pequeño</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Corta los pimientos, la cebolla y el calabacín en tiras finas.</paso>
+            <paso>Calienta el aceite en una sartén a fuego medio-alto y añade las verduras. Sofríe unos minutos hasta que estén ligeramente doradas.</paso>
+            <paso>Agrega los bocados de Heura y cocina hasta que estén dorados y crujientes, aproximadamente 3-5 minutos.</paso>
+            <paso>Salpimenta al gusto y sirve caliente.</paso>
+        </preparacion>
+        <detalles>
+            <dificultad>fácil</dificultad>
+            <cocina>saludable</cocina>
+            <vegetariana>sí</vegetariana>
+            <anticancer>medio</anticancer>
+            <celiacos>sí</celiacos>
+        </detalles>
+        <imagen>../images/plato-vegano.jpg</imagen>
+    </receta>
+</recetas>
+

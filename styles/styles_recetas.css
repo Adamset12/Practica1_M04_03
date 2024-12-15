@@ -1,0 +1,90 @@
+body {
+    font-family: "Arial", sans-serif;
+    padding-top: 150px;
+}
+
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+
+ img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.title img{
+    width: 300px;
+    height: auto;
+}
+
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #000;
+    width: 100%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    border: none;
+    background-color: transparent;
+    color: #000;
+}
+
+.buttons button:hover {
+    color: green;
+}
+
+.receta {
+    background-color: #baba76; /* Color verde oliva claro */
+    padding: 10px; /* Opcional: Espaciado interno */
+    margin-bottom: 10px; /* Opcional: Separación entre recetas */
+    border-radius: 5px; /* Opcional: Bordes redondeados */
+}
+
+.receta a, .receta h3 {
+    text-decoration: none;
+    color: inherit;
+    font-size: 1.5em; /* Tamaño de fuente como el de <h3> */
+    font-weight: bold; /* Peso de la fuente como un encabezado */
+    color: #333; /* Color de texto */
+    text-decoration: none; /* Quita subrayado de los enlaces */
+    margin: 0; /* Asegúrate de que no haya márgenes extra */
+}
+
+.main-container {
+    margin-bottom: 50px; /* Da espacio para el div fijo */
+}
+
+.links {
+    text-align: center;
+    padding: 20px;
+    background-color: #000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+}
+
+.links button {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+.links button:hover {
+    color: #7aba96;
+}
